@@ -15,6 +15,7 @@ software if you want I don't really care, licensing was never my avenue of exper
 
 
 ::INSTALLING
+
 Installation is quick and easy,
     -------------------------
     just run: bash install.sh
